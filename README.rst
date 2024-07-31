@@ -1,15 +1,4 @@
-    Coding exercise for Python engineering roles at `Onlife <https://on.life/>`_.
-
-The Process
-===========
-
-You will want to ``fork`` or ``clone`` this repository so you can work on the problem, and share the solution.
-
-You can share the solution by either:
-
-* adding the `@svo <https://github.com/svo>`_ ``GitHub`` user as a collaborator to your copy in ``GitHub``
-* archiving your local repository and emailing it back to the talent team
-
+    
 The Problem
 ===========
 
